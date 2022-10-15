@@ -1,0 +1,11 @@
+{
+"name": "DragonBall",
+"website": "https://pancakeswap.finance/",
+"description": "DragonBallDao is a metaverse focused on gamefi, nft, dex.",
+"explorer": "https://bscscan.com/address/0xDD4f5E5cd9dBD987980D7Dc0fE7E7A4b579618cE",
+"type": "BEP20",
+"symbol": "DB",
+"decimals": 18,
+"status": "active",
+"id": "0xDD4f5E5cd9dBD987980D7Dc0fE7E7A4b579618cE"
+}
